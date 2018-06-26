@@ -1,2 +1,2 @@
-print ("hello this is git test")
+print ("hi this is git test")
 
